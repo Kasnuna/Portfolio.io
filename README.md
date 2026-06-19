@@ -9,7 +9,7 @@
 - 🏅 Certified in: Cisco IT Essentials and Fortinet Cybersecurity essentials (verified on Credly)
 
 Talk to me:
-Kingler189@Gmail.com
+'Kingler189@Gmail.com'
 
 Languages Learned:
 Python, Html, linux, react and laravel frameworks
